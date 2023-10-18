@@ -2,7 +2,7 @@
 
 Meu nome é Emanuel Balansin
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,4 +11,4 @@ Meu nome é Emanuel Balansin
 emanuel.balansin@escola.pr.gov.br
 
 
-![](https://media.tenor.com/4j_zmBd3lGoAAAAd/neymar-neymar-jr.gif)
+![](https://media.tenor.com/YqwlA2SBApwAAAAC/soccer-soccer-ball.gif)
