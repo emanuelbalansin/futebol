@@ -9,7 +9,6 @@ Meu nome é Emanuel Balansin
 ### Você entrar em contato comigo
 
 emanuel.balansin@escola.pr.gov.br
-![texto-alternativo](link-da-imagem)
 
 
 ![](https://media.tenor.com/YqwlA2SBApwAAAAC/soccer-soccer-ball.gif)
