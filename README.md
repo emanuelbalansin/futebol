@@ -10,5 +10,6 @@ Meu nome é Emanuel Balansin
 
 emanuel.balansin@escola.pr.gov.br
 
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![](https://media.tenor.com/YqwlA2SBApwAAAAC/soccer-soccer-ball.gif)
